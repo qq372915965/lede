@@ -9,7 +9,7 @@ nes (115 sloc)  4.41 KB
 # <https://github.com/KFERMercer/OpenWrt-CI>
 #
 
-name: OpenWrt-CI
+name: OpenWrt-youku
 
 on:
   push:
